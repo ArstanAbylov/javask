@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.nav {
+    color: black;
+    background-color: yellow;
+}
+
+@keyframes boll {}
